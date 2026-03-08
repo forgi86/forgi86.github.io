@@ -1,0 +1,7 @@
+{% if include.pub.doi and include.pub.doi != "" %}
+<a href="{{ include.pub.doi }}" target="_blank" rel="noopener">{{ include.pub.title }}</a>
+{% elsif include.pub.arxiv and include.pub.arxiv != "" %}
+<a href="{{ include.pub.arxiv }}" target="_blank" rel="noopener">{{ include.pub.title }}</a>
+{% else %}
+{{ include.pub.title }}
+{% endif %}
