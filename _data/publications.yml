@@ -1,0 +1,39 @@
+- title: "Subspace-based identification of bilinear and LPV systems with exogenous inputs"
+  authors: "F. Forgione, M. Mejari, D. Piga"
+  venue: "Automatica"
+  year: 2024
+  doi: "https://doi.org/10.1016/j.automatica.2024.111578"
+  arxiv: ""
+  code: ""
+
+- title: "dynoNet: A neural network architecture for learning dynamical systems"
+  authors: "F. Forgione, D. Piga"
+  venue: "International Journal of Adaptive Control and Signal Processing"
+  year: 2021
+  doi: "https://doi.org/10.1002/acs.3216"
+  arxiv: "https://arxiv.org/abs/2006.02250"
+  code: "https://github.com/forgi86/dynonet"
+
+- title: "On the Adaptation of Recurrent Neural Networks for System Identification"
+  authors: "F. Forgione, A. Masti, D. Piga"
+  venue: "Automatica"
+  year: 2023
+  doi: "https://doi.org/10.1016/j.automatica.2023.111082"
+  arxiv: "https://arxiv.org/abs/2201.08660"
+  code: ""
+
+- title: "Learning to Estimate Unknown Parameters of Dynamical Systems using Physics-Based Deep Learning"
+  authors: "F. Forgione, D. Piga"
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  year: 2022
+  doi: ""
+  arxiv: "https://arxiv.org/abs/2108.13999"
+  code: ""
+
+- title: "Model structures and fitting criteria for system identification with neural networks"
+  authors: "F. Forgione, D. Piga"
+  venue: "IEEE International Conference on Application of Information and Communication Technologies (AICT)"
+  year: 2020
+  doi: ""
+  arxiv: "https://arxiv.org/abs/1911.13034"
+  code: ""
