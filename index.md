@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Francesco Forgione"
+title: "Marco Forgione"
 ---
 
 <div class="profile">
@@ -29,11 +29,14 @@ title: "Francesco Forgione"
   </div>
 </div>
 
+<!-- <h2 class="section-title">Warning: Homepage under construction!</h2> -->
+
 <h2 class="section-title">About</h2>
 <p>
   {{ site.author.bio }}
 </p>
-<p>
+
+<!-- <p>
   My research interests include:
 </p>
 <ul>
@@ -42,7 +45,7 @@ title: "Francesco Forgione"
   <li>Data-driven control and optimization</li>
   <li>Neural network-based modeling (RNNs, physics-informed networks)</li>
   <li>Linear Parameter-Varying (LPV) systems</li>
-</ul>
+</ul> -->
 
 <h2 class="section-title">Recent Publications</h2>
 <ul class="publications-list">
