@@ -7,14 +7,14 @@ author:
   name: "Marco Forgione"
   email: "marco.forgione@supsi.ch"  # Update with your actual email address
   position: "Senior Researcher"
-  institution: "Department of Electronics, Information and Bioengineering, Politecnico di Milano"
+  institution: "SUPSI, IDSIA USI-SUPSI, Lugano, Switzerland"
   bio: >
     My research interests lie at the intersection of automatic control, machine learning, and dynamical systems theory. 
   avatar: "/assets/images/myself.jpg"
   google_scholar: "https://scholar.google.com"
   github: "https://github.com/forgi86"
-  linkedin: ""
-  orcid: ""
+  linkedin: "https://www.linkedin.com/in/marco-forgione-41a46824/"
+  orcid: "https://orcid.org/0000-0001-6772-1580"
 
 navigation:
   - title: "Home"

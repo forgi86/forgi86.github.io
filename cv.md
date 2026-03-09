@@ -50,21 +50,6 @@ permalink: /cv/
   </div>
 </div>
 
-<div class="cv-section">
-  <h2>Skills</h2>
-  <div class="cv-entry">
-    <div class="cv-entry-year">Programming</div>
-    <div class="cv-entry-content">
-      <p class="cv-entry-description">Python (PyTorch, NumPy, SciPy, scikit-learn), MATLAB, Julia</p>
-    </div>
-  </div>
-  <div class="cv-entry">
-    <div class="cv-entry-year">Research</div>
-    <div class="cv-entry-content">
-      <p class="cv-entry-description">System identification, machine learning, control theory, optimization</p>
-    </div>
-  </div>
-</div>
 
 <div class="cv-section">
   <h2>Education</h2>

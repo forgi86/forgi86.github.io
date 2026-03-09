@@ -4,8 +4,12 @@ title: "Marco Forgione"
 ---
 
 <div class="profile">
-  <div class="profile-avatar">
-    <div class="avatar-placeholder">&#128100;</div>
+<div class="profile-avatar">
+    {% if site.author.avatar %}
+      <img src="{{ site.author.avatar | relative_url }}" alt="Profile picture of {{ site.author.name }}" style="width: 100%; border-radius: 50%;">
+    {% else %}
+      <div class="avatar-placeholder">&#128100;</div>
+    {% endif %}
   </div>
   <div class="profile-info">
     <h1>{{ site.author.name }}</h1>
@@ -29,23 +33,11 @@ title: "Marco Forgione"
   </div>
 </div>
 
-<!-- <h2 class="section-title">Warning: Homepage under construction!</h2> -->
 
 <h2 class="section-title">About</h2>
 <p>
   {{ site.author.bio }}
 </p>
-
-<!-- <p>
-  My research interests include:
-</p>
-<ul>
-  <li>Machine learning for dynamical systems</li>
-  <li>System identification and state estimation</li>
-  <li>Data-driven control and optimization</li>
-  <li>Neural network-based modeling (RNNs, physics-informed networks)</li>
-  <li>Linear Parameter-Varying (LPV) systems</li>
-</ul> -->
 
 <h2 class="section-title">Recent Publications</h2>
 <ul class="publications-list">
