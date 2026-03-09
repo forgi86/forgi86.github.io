@@ -1,18 +1,16 @@
-title: "Francesco Forgione"
+title: "Marco Forgione"
 description: "Researcher in Machine Learning and Control Systems"
 baseurl: ""
 url: "https://forgi86.github.io"
 
 author:
-  name: "Francesco Forgione"
-  email: "your.email@institution.edu"  # Update with your actual email address
-  position: "Postdoctoral Researcher"
+  name: "Marco Forgione"
+  email: "marco.forgione@supsi.ch"  # Update with your actual email address
+  position: "Senior Researcher"
   institution: "Department of Electronics, Information and Bioengineering, Politecnico di Milano"
   bio: >
-    I am a postdoctoral researcher working on machine learning, system identification,
-    and control of dynamical systems. My research focuses on developing data-driven
-    methods for learning and controlling complex nonlinear systems.
-  avatar: "/assets/images/avatar.jpg"
+    My research interests lie at the intersection of automatic control, machine learning, and dynamical systems theory. 
+  avatar: "/assets/images/myself.jpg"
   google_scholar: "https://scholar.google.com"
   github: "https://github.com/forgi86"
   linkedin: ""

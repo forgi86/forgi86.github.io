@@ -1,39 +1,391 @@
-- title: "Subspace-based identification of bilinear and LPV systems with exogenous inputs"
-  authors: "F. Forgione, M. Mejari, D. Piga"
-  venue: "Automatica"
-  year: 2024
-  doi: "https://doi.org/10.1016/j.automatica.2024.111578"
+- title: "Nonlinear System Identification Nano-drone Benchmark"
+  authors: "R. Busetto, E. Cereda, M. Forgione, G. Maroni, D. Piga, D. Palossi"
+  venue: "Control Engineering Practive"
+  year: 2026
+  doi: ""
   arxiv: ""
   code: ""
 
-- title: "dynoNet: A neural network architecture for learning dynamical systems"
-  authors: "F. Forgione, D. Piga"
-  venue: "International Journal of Adaptive Control and Signal Processing"
-  year: 2021
-  doi: "https://doi.org/10.1002/acs.3216"
-  arxiv: "https://arxiv.org/abs/2006.02250"
-  code: "https://github.com/forgi86/dynonet"
+- title: "On the Normalization of Gray-box State-space Neural Networks"
+  authors: "M. B. Dehkordi, M. Forgione, G. Cimini, L. Frascati, D. Piga"
+  venue: "Automatica"
+  year: 2026
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Physics-informed Neural Networks for Hidden Insulin Dynamics Estimation from Glucose Data"
+  authors: "L. Multerer, M. Acquistapace, M. Forgione, L. Azzimonti"
+  venue: "AIME 2025"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Enhanced Transformer Architecture for In-context Learning of Dynamical Systems"
+  authors: "M. Rufolo, D. Piga, G. Maroni, M. Forgione"
+  venue: "ECC 2025"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Contactless Estimation of Respiratory Frequency Using 3D-CNN on Thermal Images"
+  authors: "F. Gioia, F. Pura, A. Greco, D. Piga, A. Merla, M. Forgione"
+  venue: "IEEE Journal of Biomedical and Health Informatics"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Uncertainty Quantification in Neural State-space Models: Applications for Experiment Design and Uncertainty-aware MPC"
+  authors: "M. B. Dehkordi, M. Forgione, D. Piga"
+  venue: "European Journal of Control"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Distributionally Robust Minimization in Meta-learning for System Identification"
+  authors: "M. Rufolo, D. Piga, M. Forgione"
+  venue: "IEEE Control Systems Letters"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "The Duality of Generative AI and Reinforcement Learning in Robotics: A Review"
+  authors: "A. Moroncelli, V. Soni, M. Forgione, D. Piga, B. Spahiu, L. Roveda"
+  venue: "Information Fusion"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Zero-shot Parameter Estimation of Modelica Models Using Patch Transformer Networks"
+  authors: "A. Chakrabarty, M. Forgione, D. Piga, A. Bemporad, C. Laughman"
+  venue: "Modelica Conferences"
+  year: 2025
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Identification for Feedforward Control of Wiener Systems"
+  authors: "A. Uwadukunze, X. Bombois, M. Forgione, M. Gilson, M. Albisser"
+  venue: "MICNON 2024"
+  year: 2024
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "A Computationally Efficient Deep Learning-based Surrogate Model of Prediabetes Progression"
+  authors: "L. Multerer, S. Toniolo, S. Mitrovic, M. C. Palumbo, A. Ravoni, P. Tieri, M. Forgione, L. Azzimonti"
+  venue: "BIBM 2024"
+  year: 2024
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Synthetic Data Generation for System Identification: Leveraging Knowledge Transfer from Similar Systems"
+  authors: "D. Piga, M. Rufolo, G. Maroni, M. Mejari, M. Forgione"
+  venue: "CDC 2024"
+  year: 2024
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Model Order Reduction of Deep Structured State-space Models: A System-theoretic Approach"
+  authors: "M. Forgione, M. Mejari, D. Piga"
+  venue: "CDC 2024"
+  year: 2024
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "In-context Learning of State Estimators"
+  authors: "R. Busetto, V. Breschi, M. Forgione, D. Piga, S. Formentin"
+  venue: "IFAC-PapersOnLine"
+  year: 2024
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Variational Autoencoder for the Identification of Piecewise Models"
+  authors: "M. Mejari, M. Forgione, D. Piga"
+  venue: "IFAC-PapersOnLine"
+  year: 2023
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "From System Models to Class Models: An In-context Learning Paradigm"
+  authors: "M. Forgione, F. Pura, D. Piga"
+  venue: "IEEE Control Systems Letters"
+  year: 2023
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Fast Predictive Visual Servoing: A Reference Governor-based Approach"
+  authors: "A. Paolillo, M. Forgione, D. Piga, E. M. Hoffman"
+  venue: "Control Engineering Practice"
+  year: 2023
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Neural State-space Models: Empirical Evaluation of Uncertainty Quantification"
+  authors: "M. Forgione, D. Piga"
+  venue: "IFAC-PapersOnLine"
+  year: 2023
+  doi: ""
+  arxiv: ""
+  code: ""
 
 - title: "On the Adaptation of Recurrent Neural Networks for System Identification"
-  authors: "F. Forgione, A. Masti, D. Piga"
+  authors: "M. Forgione, A. Muni, D. Piga, M. Gallieri"
   venue: "Automatica"
   year: 2023
-  doi: "https://doi.org/10.1016/j.automatica.2023.111082"
-  arxiv: "https://arxiv.org/abs/2201.08660"
+  doi: ""
+  arxiv: ""
   code: ""
 
-- title: "Learning to Estimate Unknown Parameters of Dynamical Systems using Physics-Based Deep Learning"
-  authors: "F. Forgione, D. Piga"
-  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+- title: "Direct Identification of Continuous-time LPV State-space Models via an Integral Architecture"
+  authors: "M. Mejari, B. Mavkov, M. Forgione, D. Piga"
+  venue: "Automatica"
   year: 2022
   doi: ""
-  arxiv: "https://arxiv.org/abs/2108.13999"
+  arxiv: ""
   code: ""
 
-- title: "Model structures and fitting criteria for system identification with neural networks"
-  authors: "F. Forgione, D. Piga"
-  venue: "IEEE International Conference on Application of Information and Communication Technologies (AICT)"
+- title: "Control Design via Bayesian Optimization with Safety Constraints"
+  authors: "X. Bombois, M. Forgione"
+  venue: "6th IEEE Conference on Control Technology and Applications (CCTA)"
+  year: 2022
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "NARX Identification Using Derivative-based Regularized Neural Networks"
+  authors: "L. H. Peters, G. Beintema, M. Forgione, M. Schoukens"
+  venue: "Decision and Control (CDC), 61st IEEE Conference on"
+  year: 2022
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "An Integral Architecture for Identification of Continuous-time State-space LPV Models"
+  authors: "M. Mejari, B. Mavkov, M. Forgione, D. Piga"
+  venue: "IFAC-PapersOnLine"
+  year: 2021
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Continuous-time System Identification with Neural Networks: Model Structures and Fitting Criteria"
+  authors: "M. Forgione, D. Piga"
+  venue: "European Journal of Control"
+  year: 2021
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "dynoNet: A Neural Network Architecture for Learning Dynamical Systems"
+  authors: "M. Forgione, D. Piga"
+  venue: "International Journal of Adaptive Control and Signal Processing"
+  year: 2021
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Learning Dynamical Systems from Quantized Observations: A Bayesian Perspective"
+  authors: "D. Piga, M. Mejari, M. Forgione"
+  venue: "IEEE Transactions on Automatic Control"
+  year: 2021
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Deep Learning with Transfer Functions: New Applications in System Identification"
+  authors: "D. Piga, M. Forgione, M. Mejari"
+  venue: "19th IFAC Symposium on System Identification"
+  year: 2021
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Robot Control Parameters Auto-tuning in Trajectory Tracking Applications"
+  authors: "L. Roveda, M. Forgione, D. Piga"
+  venue: "Control Engineering Practice"
   year: 2020
   doi: ""
-  arxiv: "https://arxiv.org/abs/1911.13034"
+  arxiv: ""
+  code: ""
+
+- title: "Two-stage Robot Controller Auto-tuning Methodology for Trajectory Tracking Applications"
+  authors: "L. Roveda, M. Forgione, D. Piga"
+  venue: "IFAC-PapersOnLine"
+  year: 2020
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Efficient Calibration of Embedded MPC"
+  authors: "M. Forgione, D. Piga, A. Bemporad"
+  venue: "IFAC-PapersOnLine"
+  year: 2020
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Model Structures and Fitting Criteria for System Identification with Neural Networks"
+  authors: "M. Forgione, D. Piga"
+  venue: "AICT 2020"
+  year: 2020
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Integrated Neural Networks for Nonlinear Continuous-time System Identification"
+  authors: "B. Mavkov, M. Forgione, D. Piga"
+  venue: "IEEE Control Systems Letters"
+  year: 2020
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Performance-oriented Model Learning for Data-driven MPC Design"
+  authors: "D. Piga, M. Forgione, S. Formentin, A. Bemporad"
+  venue: "IEEE Control Systems Letters"
+  year: 2019
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Control Parameters Tuning Based on Bayesian Optimization for Robot Trajectory Tracking"
+  authors: "L. Roveda, M. Forgione, D. Piga"
+  venue: "ICRA Workshop on Learning for Industry 4.0"
+  year: 2019
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Batch-to-batch model improvement for cooling crystallization"
+  authors: "M. Forgione, G. Birpoutsoukis, X. Bombois, A. Mesbah, P. M. J. Van den Hof"
+  venue: "Control Engineering Practice"
+  year: 2015
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Data-driven model improvement for model-based control"
+  authors: "M. Forgione, X. Bombois, P. M. J. Van den Hof"
+  venue: "Automatica"
+  year: 2015
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Performance Diagnosis and Plant Re-identification"
+  authors: "A. Mesbah, X. Bombois, J. H. A. Ludlage, H. Hjalmarsson, M. Forgione, P. M. J. Van den Hof"
+  venue: "International Journal of Control"
+  year: 2015
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Least-costly Experiment Design for Uni-Parametric Linear Models: An Analytic Approach"
+  authors: "M. G. Potters, M. Forgione, X. Bombois, P. M. J. Van den Hof"
+  venue: "European Control Conference (ECC)"
+  year: 2015
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Rapid Crystallization Process Development Strategy from Lab to Industrial Scale with PAT Tools in Skid Configuration"
+  authors: "S. Kadam, J. Vissers, M. Forgione, R. Geertman, P. J. Daudey, A. Stankiewicz, H. J. M. Kramer"
+  venue: "Org. Process Res and Dev."
+  year: 2012
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Experiment Design for Parameter Estimation in Nonlinear Systems Based on Multilevel Excitation"
+  authors: "M. Forgione, X. Bombois, P. M. J. Van den Hof, H. Hjalmarsson"
+  venue: "Proceedings of the 2014 European Control Conference"
+  year: 2014
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Experiment Design in Closed Loop with Unknown, Nonlinear or Implicit Controllers Using Stealth Identification"
+  authors: "M. G. Potters, X. Bombois, M. Forgione, P. E. Moden, M. Lundh, H. Hjalmarsson, P. M. J. Van den Hof"
+  venue: "Proceedings of the 2014 European Control Conference"
+  year: 2014
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Experiment Design for Batch-to-batch Model-based Learning Control"
+  authors: "M. Forgione, X. Bombois, P. M. J. Van den Hof"
+  venue: "Proceedings of the 2013 American Control Conference"
+  year: 2013
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Iterative Learning Control of Supersaturation in Batch Cooling Crystallization"
+  authors: "M. Forgione, A. Mesbah, X. Bombois, P. M. J. Van den Hof"
+  venue: "Proceedings of the 2012 American Control Conference"
+  year: 2012
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Batch-to-batch Strategies for Cooling Crystallization"
+  authors: "M. Forgione, A. Mesbah, X. Bombois, P. M. J. Van den Hof"
+  venue: "Proceedings of the 51st IEEE Conference on Decision and Control"
+  year: 2012
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "A Unified Experiment Design Framework for Detection and Identification in Closed-loop Performance Diagnosis"
+  authors: "A. Mesbah, X. Bombois, M. Forgione, J. Ludlage, P. Moden, H. Hjalmarsson, P. M. J. Van den Hof"
+  venue: "Decision and Control (CDC), 51st IEEE Conference on"
+  year: 2012
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Rapid Determination of a Near-optimal Seeding Procedure at an Industrial Scale Batch Crystallizer"
+  authors: "S. Kadam, J. Vissers, M. Forgione, R. Geertman, P. J. Daudey, H. J. M. Kramer"
+  venue: "Proceedings of the 18th International Symposium on Industrial Crystallization"
+  year: 2011
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Towards a More Rigorous Control of Seeded Batch Crystallization"
+  authors: "A. C. P. M. Backx, X. J. A. Bombois, P. J. Daudey, M. Forgione, R. M. Geertman, P. M. J. Van den Hof, S. S. Kadam, H. J. A. Kramer, J. A. W. Vissers, P. Vonk, G. M. Westhoff"
+  venue: "19th International Symposium on Industrial Crystallization"
+  year: 2014
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Novel Control of Supersaturation on an Industrial Scale Pharmaceutical Batch Crystallizer"
+  authors: "J. Vissers, M. Forgione, S. Kadam, P. J. Daudey, T. Backx, A. E. M. Huesman, H. J. M. Kramer, P. M. J. Van den Hof"
+  venue: "Proceedings of the 18th International Symposium on Industrial Crystallization"
+  year: 2011
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Run-to-Run Tuning of Model Predictive Control for Type 1 Diabetes Subjects: in silico Trial"
+  authors: "L. Magni, M. Forgione, C. Toffanin, C. Dalla Man, G. De Nicolao, B. Kovatchev, C. Cobelli"
+  venue: "Journal of Diabetes Science and Technology"
+  year: 2009
+  doi: ""
+  arxiv: ""
   code: ""
