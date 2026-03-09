@@ -13,7 +13,13 @@ permalink: /cv/
     <div class="cv-entry-content">
       <p class="cv-entry-title">Senior Researcher</p>
       <p class="cv-entry-subtitle">Dalle Molle Institute for Artificial Intelligence (IDSIA) USI-SUPSI, Lugano, Switzerland</p>
-      <p class="cv-entry-description">Research at the intersection of automatic control, machine learning, and dynamical systems theory. Led initiatives in meta-learning and foundation models for dynamic environments. Developed tailor-made transformer architectures functioning as comprehensive meta-models.</p>
+      <p class="cv-entry-description">
+      Research at the intersection of automatic control, machine learning, and dynamical systems theory.
+      Led initiatives in meta-learning and foundation models for dynamical systems.
+      </p>
+      <p class="cv-entry-description">
+      Teaching courses related to Data Science and Probability.
+      </p>
     </div>
   </div>
   <div class="cv-entry">
