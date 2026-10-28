@@ -27,7 +27,7 @@ navigation:
     url: "/cv/"
 
 webmaster_verifications:
-  google: "XgtZFJZEvP54sl_GYMCqz5apXazkfw1uujnzKY2x1lM"
+  google: "yhG_IIxAhkc3ckaTjC74QpLGBvQ4MkTlUzXQB1fQpFU"
 
 plugins:
   - jekyll-feed
