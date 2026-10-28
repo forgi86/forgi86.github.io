@@ -26,6 +26,9 @@ navigation:
   - title: "CV"
     url: "/cv/"
 
+webmaster_verifications:
+  google: "XgtZFJZEvP54sl_GYMCqz5apXazkfw1uujnzKY2x1lM"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
