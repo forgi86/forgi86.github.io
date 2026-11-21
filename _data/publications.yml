@@ -1,3 +1,43 @@
+- title: "Variational meta-learning inference for low dimensional neural system identification"
+  authors: "M. Rufolo, D. Piga, M. Forgione"
+  venue: "CDC 2027"
+  year: 2027
+  doi: ""
+  arxiv: "https://arxiv.org/abs/2607.18965"
+  code: ""
+
+- title: "Manifold meta-learning for reduced-complexity neural system identification"
+  authors: "M. Forgione, A. Chakrabarty, D. Piga, M. Rufolo, A. Bemporad"
+  venue: "Automatica"
+  year: 2027
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "Learning low-dimensional embeddings for black-box optimization"
+  authors: "R. Busetto, M. Mejari, M. Forgione, A. Bemporad, D. Piga"
+  venue: "Automatica"
+  year: 2027
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "In-Context Learning for System Identification: Probabilistic Formulation, Long-Sequence Handling, and Benchmark Validation"
+  authors: "M. Rufolo, D. Piga, F. Pura, M. Forgione"
+  venue: "Automatica"
+  year: 2027
+  doi: ""
+  arxiv: ""
+  code: ""
+
+- title: "ASIA: an Autonomous System Identification Agent"
+  authors: "D. Piga, M. Forgione"
+  venue: "IEEE Control Systems Letters"
+  year: 2026
+  doi: ""
+  arxiv: "https://arxiv.org/abs/2605.10480"
+  code: ""
+
 - title: "Nonlinear system identification for a nano-drone benchmark"
   authors: "R. Busetto, E. Cereda, M. Forgione, G. Maroni, D. Piga, D. Palossi"
   venue: "Control Engineering Practice"
