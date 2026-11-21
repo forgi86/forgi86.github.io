@@ -38,6 +38,14 @@
   arxiv: "https://arxiv.org/abs/2605.10480"
   code: ""
 
+- title: "A Meta-Learning Approach for Speed Estimation of Brushed DC Motors"
+  authors: "C. Hächler, R. Busetto, M. Forgione, A. E. Rizzoli, T. Prud'homme, D. Piga"
+  venue: "IFAC World Congress 2026"
+  year: 2026
+  doi: ""
+  arxiv: ""
+  code: ""
+
 - title: "Nonlinear system identification for a nano-drone benchmark"
   authors: "R. Busetto, E. Cereda, M. Forgione, G. Maroni, D. Piga, D. Palossi"
   venue: "Control Engineering Practice"
